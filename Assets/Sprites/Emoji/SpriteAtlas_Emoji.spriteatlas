@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas_Emoji
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 70f4760062952454bb507bf01e91d4a0, type: 3}
+    - {fileID: 21300000, guid: 702d8510ad9d04d4cb15386b343c1176, type: 3}
+    - {fileID: 21300000, guid: a72e964a98b1cb64aa2875ad0b565f8d, type: 3}
+    - {fileID: 21300000, guid: 21b66b88fd7cbba459c96c66078d873d, type: 3}
+    - {fileID: 21300000, guid: 34163b81b4492cc42856b08160e7153d, type: 3}
+    - {fileID: 21300000, guid: 002a340645dbdff4687a71fa8758eed3, type: 3}
+    - {fileID: 21300000, guid: c9b9103e5738bea4bb23521f68d7305c, type: 3}
+    - {fileID: 21300000, guid: a52982d5dfa3948499a8c911aad89f56, type: 3}
+    - {fileID: 21300000, guid: c71b29547f37f61429a11b68f97603ac, type: 3}
+    totalSpriteSurfaceArea: 3437316
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 70f4760062952454bb507bf01e91d4a0, type: 3}
+  - {fileID: 21300000, guid: 702d8510ad9d04d4cb15386b343c1176, type: 3}
+  - {fileID: 21300000, guid: 34163b81b4492cc42856b08160e7153d, type: 3}
+  - {fileID: 21300000, guid: c71b29547f37f61429a11b68f97603ac, type: 3}
+  - {fileID: 21300000, guid: a52982d5dfa3948499a8c911aad89f56, type: 3}
+  - {fileID: 21300000, guid: 002a340645dbdff4687a71fa8758eed3, type: 3}
+  - {fileID: 21300000, guid: 21b66b88fd7cbba459c96c66078d873d, type: 3}
+  - {fileID: 21300000, guid: a72e964a98b1cb64aa2875ad0b565f8d, type: 3}
+  - {fileID: 21300000, guid: c9b9103e5738bea4bb23521f68d7305c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1F92C
+  - 1F611
+  - 1F624
+  - 1F635
+  - 1F632
+  - 1F626
+  - 1F621
+  - 1F620
+  - 1F628
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas_Emoji
+  m_IsVariant: 0
